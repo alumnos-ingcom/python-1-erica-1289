@@ -23,7 +23,7 @@ def convertir_a_fahrrenheit(centigrados):
 
 
 def convertir_a_centigrados(fahrenheit):
-    centigrados=(fahrenheit*0.555)-32
+    centigrados=(fahrenheit - 32) * 5 / 9 
     return centigrados
 
 
