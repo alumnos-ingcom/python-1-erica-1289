@@ -1,0 +1,85 @@
+################
+# Erica Suarez - @erica-1289
+# UNRN Andina - Introducción a la Ingenieria en Computación
+################
+
+
+## Markdown/git/github
+
+Para esta parte, marquen la respuesta correcta con una X dentro de los corchetes.
+
+¿Para que sirve el archivo `.gitignore`?
+
+- [ ] Para crear etiquetas en git
+
+- [ X] Para ignorar los archivos que introduzcas dentro del .gitignore
+
+- [ ] Para ignorar a git y hacer que no haga commits
+
+- [ ] Para poder subir archivos ignorados
+
+¿Para qué sirve el comando `git init`?
+
+- [ ] Para transformar un directorio en un trabajo de Git
+
+- [ ] Para crear un repositorio remoto
+
+- [ ] Para crear un init en git
+
+- [X ] Para poder inicializar un repositorio de GitHub
+
+¿Qué es GitHub?
+
+- [ ] Un repositorio remoto para subir contenido
+
+- [ X] Es un sistema de gestión de proyectos y control de versiones de código
+
+- [ ] Es un programa para diseñar proyectos
+
+- [ ] Es una plataforma para desarrollar código
+
+Antes de hacer un `push` a nuestro repositorio en GitHub ¿que es lo que debemos hacer?
+
+- [X ] `git status`
+
+- [ ] `git pull`
+
+- [ ] `git info`
+
+- [ ] `git diff`
+
+- [ ] `git github`
+
+¿Cual es el proposito del mensaje en el commit?
+
+- [ ] Saber quien hizo cambios sin ver lo que cambió
+
+- [ X] Saber que cambió sin ver lo que cambió
+
+- [ ] Es algo que exige sin ver lo que cambió
+
+¿Para qué se usa git?
+
+- [ X] Para trabajar en equipo de una manera mucho más simple y óptima cuando estamos desarrollando software.
+
+- [ ] Para modificar código y actualizarlo
+
+- [ ] Para poder descargar código
+
+- [ ] Para poder trabajar con códigos de otros usuarios y modificarlos
+
+Cómo se descarga un repositorio?
+
+- [ X] Con `git pull`
+
+- [ ] Con `git push`
+
+- [ ] Con `git commit`
+
+- [ ] Con `git log`
+
+Para desarrollar
+
+¿Porqué se utiliza Markdown en Git y GitHub?
+Markdown es un editor de texto , fácil de manejar, que da forma a lo escrito o editado,
+sirve para escribir en plaformas.
